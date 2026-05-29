@@ -1,0 +1,1 @@
+var e=`/assets/redCube-GxPR_2eR.png`;export{e as t};

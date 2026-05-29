@@ -1,0 +1,1 @@
+var e=`/assets/zoskyZappers-C2CR-kCA.png`,t=`/assets/vodVote-h0DnwafU.png`;export{e as n,t};

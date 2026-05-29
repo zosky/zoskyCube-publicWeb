@@ -1,0 +1,1 @@
+var e=`/assets/yellowCube-CnMlxBZh.png`;export{e as t};
