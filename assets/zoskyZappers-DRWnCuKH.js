@@ -1,0 +1,1 @@
+var e=`/assets/zoskyZappers-C2CR-kCA.png`;export{e as t};
