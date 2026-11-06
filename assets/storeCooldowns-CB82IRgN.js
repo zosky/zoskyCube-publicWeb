@@ -1,0 +1,1 @@
+function e(e,t,n,r){let i=Number(e?.lockedUntil)||0,a=Math.max(Number(t?.lockedUntil)||0,Number(n?.lockedUntil)||0),o=Math.max(i,a);return{categoryUntil:i,itemUntil:a,until:o,locked:o>r,remaining:Math.max(0,o-r)}}function t(e){let t=Math.max(0,Math.ceil(e/1e3)),n=Math.floor(t/3600),r=Math.floor(t%3600/60);return n?`${n}h ${r}m`:`${r}m ${t%60}s`}export{t as n,e as t};
