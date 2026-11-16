@@ -1,0 +1,1 @@
+function e(e){let t=Array.isArray(e?.store)?e.store:[];return e?.delivery===`dm`&&!t.includes(`adRev`)?[...t,`adRev`]:t}export{e as t};

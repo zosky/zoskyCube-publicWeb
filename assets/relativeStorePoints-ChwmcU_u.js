@@ -1,0 +1,1 @@
+var e=5e3;function t(t,n){let r=[`dm`,`DM`,`onDemand`].includes(t),i=Number(n);return r&&Number.isFinite(i)&&i>=e}export{t};
